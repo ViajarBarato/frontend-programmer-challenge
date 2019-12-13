@@ -14,7 +14,7 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 ## Dissertação sobre arquitetura de solução
 Crie um arquivo `dissertacao.txt` na raiz do seu repositório, dentro deste arquivo você deve dissertar sobre o seguinte tema:
 
-**Sabendo que todos os programadores do Viajar Barato possuem amplo conhecimento em .NET e SQL Server, se você fosse construir um novo site do Viajar Barato, qual tecnologia e arquitetura você usaria? Explique o motivo da sua escolha e aponte como usar cada uma delas.**
+**A Viajar Barato irá criar seu novo site, um dos problemas que temos que resolver é quanto ao page speed, se você fosse construir um novo site do Viajar Barato, qual tecnologia e arquitetura você usaria para o frontend? Explique o motivo da sua escolha e aponte como usar cada uma delas.**
 
 ## Descrição do projeto prático.
 - Uma página SPA em Angular@5+ que lista os personagens da série de filmes "Star Wars" filtrando por sua espécie.
@@ -65,7 +65,7 @@ Abaixo um exemplo de como sua aplicação deve se parecer. `challenge-mock-wiref
 * Angular 5+
 * Typescript 3+ 
 * Integrações RESTFull
-* HTML 
+* HTML Semântico
 * CSS 
 * Pré-processadores de Estilo
 * Habilidade com Layout Responsivo
@@ -73,12 +73,14 @@ Abaixo um exemplo de como sua aplicação deve se parecer. `challenge-mock-wiref
 * Desenvolvimento orientado a testes (TDD)
 
 ## Conhecimentos do candidato que fazem a diferença: 
+* Acessibilidade
 * Docker
 * Programação Reativa
 * Linux
 * Mobile First
 * Jamstack
 * Ghost CMS
+* BEM Pattern
 
 ## Avaliação
 Seu projeto será avaliado de acordo com os seguintes critérios. 
