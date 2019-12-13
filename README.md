@@ -108,7 +108,7 @@ Estamos em processo de modernização de nossa Stack de desenvolvimento, impleme
 
 Fazem parte de nossa Stack: .NET Core 2+, .NET Framework 4+, Angular@5+, RabbitMQ, Docker, Kubernetes, Linux, MongoDB, MSSql Server, Typescript.
 
-**:rainbow:Apoiamos e respeitamos a diversidade independente de raça, etnia, orientação sexual, gênero, idade, nacionalidade, crença ou deficiência.:rainbow:**
+**Apoiamos e respeitamos a diversidade independente de raça, etnia, orientação sexual, gênero, idade, nacionalidade, crença ou deficiência.**
 
 ### Localização
 Estamos localizados no centro de São Paulo, proximo a nós temos: 
@@ -118,4 +118,4 @@ Estamos localizados no centro de São Paulo, proximo a nós temos:
 * :hamburger: Shopping Light 
 
 **Venha! Junte-se a nós!**
-:airplane::heart_eyes::coffee::computer::headphones::hocho::skull:
+:airplane::heart_eyes::coffee::computer::headphones::hocho::skull::rainbow::wheelchair:
